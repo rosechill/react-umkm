@@ -23,7 +23,7 @@ const Homepage = () => {
       <header className="w-100 min-vh-100 d-flex align-items-center overflow-hidden">
         <Container>
           <Row className="header-box d-flex align-items-center pt-lg-5">
-            <Col lg="6">
+            <Col lg="6">    
               <h1 className="mb-4 animate__animated animate__fadeInUp animate__delay-1s">
                 UMKM <br /> <span> Peternakan Ayam Petelur</span> <br />
               </h1>
